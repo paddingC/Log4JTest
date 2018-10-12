@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Log4JTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Log4JTest.war">
+      <element id="artifact" artifact-name="Log4JTest:war exploded" />
+    </root>
+  </artifact>
+</component>
